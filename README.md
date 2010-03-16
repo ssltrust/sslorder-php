@@ -17,5 +17,10 @@ Unter debian/ubuntu können die Pakete mit folgendem Befehl installiert werden:
 In der example.php ist beschrieben, wie eine Instanz des Clients erzeugt
 wird und mit diesem Zertifikate bestellt und abgefragt werden können.
 
+## Callback
+Bei der Ausstellung des Zertifikats kann das Zertifikats-Objekt per HTTP an ein
+Script gesendet werden, um automatisch weiterverarbeitet zu werden.
+Die callback.php zeigt die Funktionsweise eines solches Scriptes.
+
 ## Lizenz
 Dieser Client steht unter der MIT-Lizenz.
