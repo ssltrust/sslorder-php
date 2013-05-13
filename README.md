@@ -1,7 +1,7 @@
-# ready2host SSL-Order Client
+# SSL-Order Client
 
 ## Einleitung
-Mit dem ready2host SSL-Order Client kann die API von ready2host über das
+Mit dem SSL-Order Client kann die API von SSL-Trust über das
 REST-Protokoll per JSON angesprochen werden.
 Über die API können unter anderem automatisiert SSL-Zertifikate bestellt werden sowie
 der Status von Zertifikaten abzufragt werden.
